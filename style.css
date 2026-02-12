@@ -1748,7 +1748,7 @@ button:hover {
   border-right: 3px solid #ffffff;
   display: block;
   max-width: fit-content;
-  margin-left: 0.5%;
+  margin-left: 40%;
 }
 
 .card p:nth-child(1) {
