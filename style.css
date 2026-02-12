@@ -1798,3 +1798,9 @@ button:hover {
 @keyframes caretHide {
   to { border-right-color: transparent; }
 }
+
+.Gallery p{
+  color: white;
+  font-size: 10rem;
+
+}
